@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "eyebrow": "NYTI certification",
+    "title": "Certificates that are earned — and verifiable",
+    "description": "NYTI certificates are awarded only after learners complete the required training and pass an assessment. Each carries a unique ID that anyone can check online."
+  },
+  "verification": {
+    "eyebrow": "Verification",
+    "title": "How certificate verification works",
+    "steps": [
+      {
+        "title": "Find the certificate ID",
+        "body": "Printed at the bottom of every certificate in the format NYTI-YYYY-NNNNNN."
+      },
+      {
+        "title": "Enter it or scan the QR code",
+        "body": "The QR code opens the verification page with the ID already filled in."
+      },
+      {
+        "title": "Read the official result",
+        "body": "The registry returns the certificate's status, holder, course, issuer and issue date."
+      }
+    ],
+    "statusesTitle": "What each status means",
+    "statuses": [
+      {
+        "status": "valid",
+        "title": "Valid",
+        "body": "The certificate was issued by NYTI or an authorized partner and is currently in good standing."
+      },
+      {
+        "status": "expired",
+        "title": "Expired",
+        "body": "Some occupational certificates (for example safety-critical trades) must be renewed after a set period."
+      },
+      {
+        "status": "revoked",
+        "title": "Revoked",
+        "body": "NYTI has withdrawn the certificate, for example following an assessment integrity review."
+      }
+    ]
+  }
+}

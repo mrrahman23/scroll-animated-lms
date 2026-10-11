@@ -1,0 +1,24 @@
+{
+  "terms": {
+    "title": "Terms & Conditions",
+    "updated": "2026-09-01",
+    "intro": "This page will contain the official Terms & Conditions of the National Youth Training Institute. The final text must be reviewed and approved before publication.",
+    "sections": [
+      {
+        "heading": "Certificate verification data",
+        "body": "The public verification service displays only the certificate holder's name, course title, issuing institution, issue date, expiry date where applicable, and status. No contact details or assessment scores are disclosed."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "2026-09-01",
+    "intro": "This page will contain the official Privacy Policy of the National Youth Training Institute. The final text must be reviewed and approved before publication.",
+    "sections": [
+      {
+        "heading": "Certificate verification data",
+        "body": "The public verification service displays only the certificate holder's name, course title, issuing institution, issue date, expiry date where applicable, and status. No contact details or assessment scores are disclosed."
+      }
+    ]
+  }
+}

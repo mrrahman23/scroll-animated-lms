@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pay-1",
+    "userId": "u-reja",
+    "courseId": "c-gd",
+    "amount": 8500,
+    "currency": "BDT",
+    "method": "bKash",
+    "status": "paid",
+    "date": "2026-08-10",
+    "invoiceNo": "INV-26-08812"
+  },
+  {
+    "id": "pay-2",
+    "userId": "u-reja",
+    "courseId": "c-dm",
+    "amount": 6500,
+    "currency": "BDT",
+    "method": "Card",
+    "status": "paid",
+    "date": "2026-07-01",
+    "invoiceNo": "INV-26-07033"
+  },
+  {
+    "id": "pay-3",
+    "userId": "u-reja",
+    "courseId": "c-office",
+    "amount": 3500,
+    "currency": "BDT",
+    "method": "Nagad",
+    "status": "paid",
+    "date": "2026-02-01",
+    "invoiceNo": "INV-26-02107"
+  }
+]

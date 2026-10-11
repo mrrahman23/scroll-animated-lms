@@ -1,0 +1,227 @@
+{
+  "hero": {
+    "eyebrow": "Nationally recognised skills training",
+    "headline": [
+      "Build Skills.",
+      "Earn Recognition."
+    ],
+    "highlight": "Shape Your Future.",
+    "description": "NYTI provides accessible online and offline training programs designed to help youth develop practical skills, earn recognized certifications, and prepare for better career opportunities.",
+    "primaryCta": {
+      "label": "Explore Courses",
+      "href": "/courses"
+    },
+    "secondaryCta": {
+      "label": "Verify a Certificate",
+      "href": "/verify-certificate"
+    },
+    "backdropWord": "NYTI",
+    "sideCaption": "Learn · Certify · Verify",
+    "chapters": [
+      {
+        "label": "Learn",
+        "href": "#explore-title"
+      },
+      {
+        "label": "Certify",
+        "href": "#cert-steps-title"
+      },
+      {
+        "label": "Verify",
+        "href": "#verify-title"
+      },
+      {
+        "label": "Partners",
+        "href": "#partners-title"
+      }
+    ],
+    "visual": {
+      "lessonLabel": "Module 3 · Photoshop",
+      "courseTitle": "Professional Graphic Design",
+      "progress": 72,
+      "certificateName": "Mim Akter",
+      "certificateId": "NYTI-2026-000123",
+      "verifiedTitle": "Certificate verified",
+      "verifiedMeta": "by an employer · just now",
+      "batchTitle": "Offline batch · Dhaka",
+      "batchMeta": "4.8 · starts 12 Oct",
+      "badge": "NYTI Certified"
+    }
+  },
+  "explore": {
+    "eyebrow": "Course discovery",
+    "title": "Explore Our Training Programs",
+    "description": "Search across 100+ programmes in twelve career fields, delivered online and at authorized training centers nationwide.",
+    "categoriesTitle": "Browse by category"
+  },
+  "featured": {
+    "eyebrow": "Most enrolled",
+    "title": "Popular Training Programs",
+    "description": "Career-focused programmes chosen by thousands of learners, each leading to an NYTI-certified certificate.",
+    "count": 6
+  },
+  "modes": {
+    "eyebrow": "Two ways to learn",
+    "title": "Online or in the classroom — the same NYTI standard",
+    "description": "Every programme leads to the same certification, whichever way you choose to learn.",
+    "online": {
+      "eyebrow": "Online Learning",
+      "title": "Learn Anywhere",
+      "icon": "laptop",
+      "points": [
+        "Flexible learning schedule",
+        "Video lessons",
+        "Downloadable resources",
+        "Online assessments",
+        "Instructor support",
+        "Digital certificate"
+      ],
+      "cta": {
+        "label": "Browse Online Courses",
+        "href": "/online-courses"
+      }
+    },
+    "offline": {
+      "eyebrow": "Offline Training",
+      "title": "Learn In Person",
+      "icon": "school",
+      "points": [
+        "Practical classroom training",
+        "Experienced instructors",
+        "Hands-on sessions",
+        "Physical training centers",
+        "Practical assessments",
+        "NYTI certification"
+      ],
+      "cta": {
+        "label": "Find Offline Training",
+        "href": "/offline-training"
+      }
+    }
+  },
+  "certification": {
+    "eyebrow": "Certification",
+    "title": "How NYTI Certification Works",
+    "description": "A transparent, standards-based path from enrolment to a certificate that anyone can verify.",
+    "steps": [
+      {
+        "title": "Choose a Course",
+        "body": "Select an online or offline training program.",
+        "icon": "compass"
+      },
+      {
+        "title": "Complete Training",
+        "body": "Attend classes, complete lessons and required activities.",
+        "icon": "book-open"
+      },
+      {
+        "title": "Complete Assessment",
+        "body": "Take the required examination or practical assessment.",
+        "icon": "clipboard-list"
+      },
+      {
+        "title": "Receive Your Certificate",
+        "body": "Successfully completing the requirements allows the learner to receive an NYTI-certified certificate.",
+        "icon": "award"
+      }
+    ],
+    "cta": {
+      "label": "Learn About Certification",
+      "href": "/certifications"
+    }
+  },
+  "verify": {
+    "title": "Verify an NYTI Certificate",
+    "description": "Verify the authenticity of a certificate issued by NYTI or an authorized NYTI training partner.",
+    "points": [
+      "Instant result, available 24/7",
+      "Covers certificates issued by all authorized partners",
+      "Only essential details shown to protect privacy"
+    ],
+    "link": {
+      "label": "How certificate verification works",
+      "href": "/certifications#verification"
+    }
+  },
+  "partners": {
+    "eyebrow": "Partner network",
+    "title": "Our Authorized Training Partners",
+    "description": "NYTI collaborates with authorized training institutions and organizations to expand access to quality training programs.",
+    "count": 4,
+    "cta": {
+      "title": "Run a training institution?",
+      "body": "Deliver NYTI-certified programmes, reach more learners and issue verifiable certificates.",
+      "label": "Become an Authorized Partner",
+      "href": "/become-a-partner"
+    },
+    "logoCarousel": {
+      "show": true,
+      "title": "Delivered through NYTI-authorized institutions nationwide",
+      "seconds": 35
+    }
+  },
+  "why": {
+    "eyebrow": "Why NYTI",
+    "title": "Training you can trust, certificates that count",
+    "reasons": [
+      {
+        "title": "Recognized Certification",
+        "body": "Receive certification after successfully completing required training and assessment.",
+        "icon": "award"
+      },
+      {
+        "title": "Flexible Learning",
+        "body": "Choose online or classroom-based training.",
+        "icon": "laptop"
+      },
+      {
+        "title": "Practical Skills",
+        "body": "Focus on skills that can be applied in real-world environments.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Authorized Partners",
+        "body": "Learn through institutions authorized by NYTI.",
+        "icon": "building"
+      },
+      {
+        "title": "Certificate Verification",
+        "body": "Allow employers and organizations to verify certificates online.",
+        "icon": "shield-check"
+      },
+      {
+        "title": "Career Development",
+        "body": "Develop skills that support employment and entrepreneurship.",
+        "icon": "briefcase"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Learner stories",
+    "title": "Skills that open doors",
+    "sampleNotice": "Sample testimonials shown for illustration. Verified learner testimonials will replace these."
+  },
+  "news": {
+    "eyebrow": "News & events",
+    "title": "Latest Updates",
+    "count": 6
+  },
+  "finalCta": {
+    "eyebrow": "Learn. Get Certified. Build Your Future.",
+    "title": "Your next skill starts today",
+    "description": "Create a free account to enrol, track your progress and receive certificates that employers can verify instantly.",
+    "primary": {
+      "label": "Create Free Account",
+      "href": "/register"
+    },
+    "secondary": {
+      "label": "Browse Courses",
+      "href": "/courses"
+    }
+  },
+  "worldWindow": {
+    "eyebrow": "Learn → Certify → Verify",
+    "title": "Certified.",
+    "caption": "Every NYTI learner's journey ends with a certificate anyone can verify."
+  }
+}

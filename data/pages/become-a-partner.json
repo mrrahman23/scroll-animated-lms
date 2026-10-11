@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "eyebrow": "Partnerships",
+    "title": "Become an Authorized Training Partner",
+    "description": "Join a national network of institutions delivering quality, standards-based training with certificates employers trust."
+  },
+  "benefits": [
+    {
+      "icon": "badge-check",
+      "title": "NYTI authorization",
+      "body": "Display the Authorized Partner badge and be listed in the public directory."
+    },
+    {
+      "icon": "users",
+      "title": "Reach more learners",
+      "body": "Receive enrolments from the NYTI platform for your classroom batches."
+    },
+    {
+      "icon": "clipboard-check",
+      "title": "Verifiable certificates",
+      "body": "Issue certificates backed by the national verification registry."
+    }
+  ],
+  "process": [
+    {
+      "title": "Apply",
+      "body": "Submit your organization profile and supporting documents."
+    },
+    {
+      "title": "Review",
+      "body": "NYTI assesses facilities, instructors and assessment processes."
+    },
+    {
+      "title": "Site visit",
+      "body": "An NYTI officer inspects your training center."
+    },
+    {
+      "title": "Authorization",
+      "body": "Receive your authorization number and start delivering programmes."
+    }
+  ]
+}

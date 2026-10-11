@@ -1,0 +1,1599 @@
+[
+  {
+    "id": "c-gd",
+    "slug": "professional-graphic-design",
+    "title": "Professional Graphic Design",
+    "shortDescription": "Master Photoshop, Illustrator and brand identity design with a portfolio-ready capstone.",
+    "description": "A practical, portfolio-driven programme covering the tools, principles and workflows used by professional designers. Learners complete real briefs in branding, social media and print, and graduate with a curated portfolio reviewed by industry designers.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-gd",
+    "instructorId": "ins-1",
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 12,
+    "hoursPerWeek": 6,
+    "language": "Bangla & English",
+    "students": 1245,
+    "rating": 4.8,
+    "reviewCount": 312,
+    "price": 8500,
+    "certificate": true,
+    "featured": true,
+    "nextIntake": "2026-10-12",
+    "outcomes": [
+      "Photoshop fundamentals",
+      "Illustrator for vector design",
+      "Branding and visual identity",
+      "Logo design process",
+      "Social media design",
+      "Print design and prepress",
+      "Portfolio development"
+    ],
+    "requirements": [
+      "A computer capable of running Adobe Creative Cloud",
+      "No prior design experience needed"
+    ],
+    "partnerIds": [
+      "p-abc",
+      "p-sylhet",
+      "p-ctg"
+    ],
+    "thumbnail": {
+      "hue": "indigo",
+      "icon": "palette"
+    },
+    "curriculum": [
+      {
+        "id": "gd-m1",
+        "title": "Module 1 — Introduction",
+        "lessons": [
+          {
+            "id": "gd-m1-l1",
+            "title": "Welcome to the programme",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "gd-m1-l2",
+            "title": "How designers work",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "gd-m1-l3",
+            "title": "Setting up your workspace",
+            "type": "video",
+            "durationMinutes": 11,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "gd-m2",
+        "title": "Module 2 — Design Fundamentals",
+        "lessons": [
+          {
+            "id": "gd-m2-l1",
+            "title": "Colour theory",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m2-l2",
+            "title": "Typography essentials",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m2-l3",
+            "title": "Layout and grids",
+            "type": "video",
+            "durationMinutes": 14,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m2-l4",
+            "title": "Fundamentals quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "gd-m3",
+        "title": "Module 3 — Photoshop",
+        "lessons": [
+          {
+            "id": "gd-m3-l1",
+            "title": "Layers and masks",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m3-l2",
+            "title": "Photo retouching",
+            "type": "video",
+            "durationMinutes": 17,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m3-l3",
+            "title": "Compositing",
+            "type": "reading",
+            "durationMinutes": 24,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m3-l4",
+            "title": "Photoshop assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "gd-m4",
+        "title": "Module 4 — Illustrator",
+        "lessons": [
+          {
+            "id": "gd-m4-l1",
+            "title": "Pen tool mastery",
+            "type": "video",
+            "durationMinutes": 20,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m4-l2",
+            "title": "Shapes and pathfinder",
+            "type": "video",
+            "durationMinutes": 9,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m4-l3",
+            "title": "Vector illustration",
+            "type": "video",
+            "durationMinutes": 16,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m4-l4",
+            "title": "Illustrator assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "gd-m5",
+        "title": "Module 5 — Branding",
+        "lessons": [
+          {
+            "id": "gd-m5-l1",
+            "title": "Brand strategy basics",
+            "type": "video",
+            "durationMinutes": 12,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m5-l2",
+            "title": "Logo design process",
+            "type": "video",
+            "durationMinutes": 19,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m5-l3",
+            "title": "Building a brand guide",
+            "type": "video",
+            "durationMinutes": 8,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m5-l4",
+            "title": "Branding project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "gd-m6",
+        "title": "Module 6 — Portfolio",
+        "lessons": [
+          {
+            "id": "gd-m6-l1",
+            "title": "Curating your work",
+            "type": "reading",
+            "durationMinutes": 22,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m6-l2",
+            "title": "Presenting case studies",
+            "type": "video",
+            "durationMinutes": 11,
+            "isPreview": false
+          },
+          {
+            "id": "gd-m6-l3",
+            "title": "Final portfolio project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-dm",
+    "slug": "professional-digital-marketing",
+    "title": "Professional Digital Marketing",
+    "shortDescription": "Plan and run campaigns across search, social and email — measured with real analytics.",
+    "description": "Learn to plan, launch and measure digital campaigns. Covers SEO, content, social media advertising, email and analytics with hands-on projects on live sandbox accounts.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-mkt",
+    "instructorId": "ins-2",
+    "modes": [
+      "online"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 10,
+    "hoursPerWeek": 5,
+    "language": "Bangla & English",
+    "students": 2310,
+    "rating": 4.7,
+    "reviewCount": 540,
+    "price": 6500,
+    "certificate": true,
+    "featured": true,
+    "nextIntake": "2026-10-05",
+    "outcomes": [
+      "Marketing strategy and funnels",
+      "Search engine optimisation",
+      "Social media advertising",
+      "Email marketing",
+      "Google Analytics",
+      "Campaign reporting"
+    ],
+    "requirements": [
+      "Basic computer and internet skills"
+    ],
+    "partnerIds": [],
+    "thumbnail": {
+      "hue": "blue",
+      "icon": "megaphone"
+    },
+    "curriculum": [
+      {
+        "id": "dm-m1",
+        "title": "Module 1 — Foundations",
+        "lessons": [
+          {
+            "id": "dm-m1-l1",
+            "title": "What is digital marketing?",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "dm-m1-l2",
+            "title": "Customer journeys",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "dm-m1-l3",
+            "title": "Setting goals",
+            "type": "video",
+            "durationMinutes": 11,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "dm-m2",
+        "title": "Module 2 — Search & SEO",
+        "lessons": [
+          {
+            "id": "dm-m2-l1",
+            "title": "Keyword research",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m2-l2",
+            "title": "On-page SEO",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m2-l3",
+            "title": "SEO quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "dm-m3",
+        "title": "Module 3 — Social Media",
+        "lessons": [
+          {
+            "id": "dm-m3-l1",
+            "title": "Organic content",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m3-l2",
+            "title": "Paid social campaigns",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m3-l3",
+            "title": "Social media project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "dm-m4",
+        "title": "Module 4 — Analytics",
+        "lessons": [
+          {
+            "id": "dm-m4-l1",
+            "title": "Measuring results",
+            "type": "reading",
+            "durationMinutes": 24,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m4-l2",
+            "title": "Reporting to stakeholders",
+            "type": "video",
+            "durationMinutes": 13,
+            "isPreview": false
+          },
+          {
+            "id": "dm-m4-l3",
+            "title": "Final assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-web",
+    "slug": "web-development-fundamentals",
+    "title": "Web Development Fundamentals",
+    "shortDescription": "Build responsive websites with HTML, CSS and JavaScript from first principles.",
+    "description": "A structured introduction to building for the web. Learners create and deploy three responsive sites and a small interactive application.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-it",
+    "instructorId": "ins-3",
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 16,
+    "hoursPerWeek": 8,
+    "language": "English",
+    "students": 1870,
+    "rating": 4.8,
+    "reviewCount": 402,
+    "price": 12000,
+    "certificate": true,
+    "featured": true,
+    "nextIntake": "2026-11-02",
+    "outcomes": [
+      "Semantic HTML",
+      "Modern CSS and layout",
+      "JavaScript fundamentals",
+      "Responsive design",
+      "Git and deployment",
+      "Accessibility basics"
+    ],
+    "requirements": [
+      "A laptop or desktop computer",
+      "Comfort with typing and file management"
+    ],
+    "partnerIds": [
+      "p-abc",
+      "p-rajshahi"
+    ],
+    "thumbnail": {
+      "hue": "navy",
+      "icon": "code"
+    },
+    "curriculum": [
+      {
+        "id": "web-m1",
+        "title": "Module 1 — Getting Started",
+        "lessons": [
+          {
+            "id": "web-m1-l1",
+            "title": "How the web works",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "web-m1-l2",
+            "title": "Your developer toolkit",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "web-m1-l3",
+            "title": "First web page",
+            "type": "video",
+            "durationMinutes": 11,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "web-m2",
+        "title": "Module 2 — HTML & CSS",
+        "lessons": [
+          {
+            "id": "web-m2-l1",
+            "title": "Semantic structure",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "web-m2-l2",
+            "title": "Flexbox and grid",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "web-m2-l3",
+            "title": "Responsive layouts",
+            "type": "video",
+            "durationMinutes": 14,
+            "isPreview": false
+          },
+          {
+            "id": "web-m2-l4",
+            "title": "Layout quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "web-m3",
+        "title": "Module 3 — JavaScript",
+        "lessons": [
+          {
+            "id": "web-m3-l1",
+            "title": "Variables and functions",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "web-m3-l2",
+            "title": "The DOM",
+            "type": "video",
+            "durationMinutes": 17,
+            "isPreview": false
+          },
+          {
+            "id": "web-m3-l3",
+            "title": "Events and forms",
+            "type": "reading",
+            "durationMinutes": 24,
+            "isPreview": false
+          },
+          {
+            "id": "web-m3-l4",
+            "title": "JavaScript assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "web-m4",
+        "title": "Module 4 — Shipping",
+        "lessons": [
+          {
+            "id": "web-m4-l1",
+            "title": "Git basics",
+            "type": "video",
+            "durationMinutes": 20,
+            "isPreview": false
+          },
+          {
+            "id": "web-m4-l2",
+            "title": "Deploying a site",
+            "type": "video",
+            "durationMinutes": 9,
+            "isPreview": false
+          },
+          {
+            "id": "web-m4-l3",
+            "title": "Capstone project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-acc",
+    "slug": "practical-accounting-with-tally",
+    "title": "Practical Accounting with Tally",
+    "shortDescription": "Bookkeeping, VAT basics and computerised accounting for small businesses.",
+    "description": "Hands-on accounting for real small-business scenarios, from double-entry fundamentals to computerised ledgers and statutory reporting.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-fin",
+    "instructorId": "ins-4",
+    "modes": [
+      "offline"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 8,
+    "hoursPerWeek": 6,
+    "language": "Bangla",
+    "students": 860,
+    "rating": 4.6,
+    "reviewCount": 190,
+    "price": 5500,
+    "certificate": true,
+    "nextIntake": "2026-10-19",
+    "outcomes": [
+      "Double-entry bookkeeping",
+      "Ledgers and trial balance",
+      "Computerised accounting",
+      "VAT and tax basics",
+      "Financial statements"
+    ],
+    "requirements": [
+      "Basic arithmetic"
+    ],
+    "partnerIds": [
+      "p-ctg",
+      "p-khulna"
+    ],
+    "thumbnail": {
+      "hue": "teal",
+      "icon": "calculator"
+    },
+    "curriculum": [
+      {
+        "id": "acc-m1",
+        "title": "Module 1 — Principles",
+        "lessons": [
+          {
+            "id": "acc-m1-l1",
+            "title": "Accounting concepts",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "acc-m1-l2",
+            "title": "The accounting equation",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "acc-m1-l3",
+            "title": "Principles quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "acc-m2",
+        "title": "Module 2 — Bookkeeping",
+        "lessons": [
+          {
+            "id": "acc-m2-l1",
+            "title": "Journals and ledgers",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "acc-m2-l2",
+            "title": "Trial balance",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "acc-m2-l3",
+            "title": "Bookkeeping practical",
+            "type": "video",
+            "durationMinutes": 14,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "acc-m3",
+        "title": "Module 3 — Computerised Accounting",
+        "lessons": [
+          {
+            "id": "acc-m3-l1",
+            "title": "Company setup",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "acc-m3-l2",
+            "title": "Vouchers and reports",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "acc-m3-l3",
+            "title": "Final assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-elec",
+    "slug": "industrial-electrical-installation",
+    "title": "Industrial Electrical Installation",
+    "shortDescription": "Safe wiring, panel installation and maintenance in a fully equipped workshop.",
+    "description": "A workshop-based vocational programme covering safe installation, testing and maintenance practices aligned to national occupational standards.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-tech",
+    "instructorId": "ins-5",
+    "modes": [
+      "offline"
+    ],
+    "level": "Intermediate",
+    "durationWeeks": 24,
+    "hoursPerWeek": 15,
+    "language": "Bangla",
+    "students": 640,
+    "rating": 4.9,
+    "reviewCount": 148,
+    "price": 15000,
+    "certificate": true,
+    "featured": true,
+    "nextIntake": "2026-11-09",
+    "outcomes": [
+      "Electrical safety standards",
+      "Residential and industrial wiring",
+      "Distribution panels",
+      "Testing and fault finding",
+      "Motor control basics"
+    ],
+    "requirements": [
+      "Minimum SSC or equivalent",
+      "Must attend in-person workshop sessions"
+    ],
+    "partnerIds": [
+      "p-dhaka-tech",
+      "p-khulna",
+      "p-rajshahi"
+    ],
+    "thumbnail": {
+      "hue": "slate",
+      "icon": "zap"
+    },
+    "curriculum": [
+      {
+        "id": "elec-m1",
+        "title": "Module 1 — Safety First",
+        "lessons": [
+          {
+            "id": "elec-m1-l1",
+            "title": "Workshop safety",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "elec-m1-l2",
+            "title": "Tools and PPE",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "elec-m1-l3",
+            "title": "Safety assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "elec-m2",
+        "title": "Module 2 — Wiring",
+        "lessons": [
+          {
+            "id": "elec-m2-l1",
+            "title": "Circuit fundamentals",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "elec-m2-l2",
+            "title": "Residential wiring",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "elec-m2-l3",
+            "title": "Wiring practical",
+            "type": "video",
+            "durationMinutes": 14,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "elec-m3",
+        "title": "Module 3 — Industrial Systems",
+        "lessons": [
+          {
+            "id": "elec-m3-l1",
+            "title": "Distribution panels",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "elec-m3-l2",
+            "title": "Motor control",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "elec-m3-l3",
+            "title": "Final practical assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-office",
+    "slug": "office-applications-professional",
+    "title": "Office Applications Professional",
+    "shortDescription": "Confident, job-ready skills in Word, Excel, PowerPoint and Google Workspace.",
+    "description": "Become fully productive with the tools used in every office. Includes Excel formulas, data cleanup, professional documents and presentations.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-office",
+    "instructorId": "ins-6",
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "level": "All Levels",
+    "durationWeeks": 6,
+    "hoursPerWeek": 5,
+    "language": "Bangla",
+    "students": 3120,
+    "rating": 4.7,
+    "reviewCount": 780,
+    "price": 3500,
+    "certificate": true,
+    "featured": true,
+    "nextIntake": "2026-10-01",
+    "outcomes": [
+      "Professional documents in Word",
+      "Excel formulas and pivot tables",
+      "Presentation design",
+      "Cloud collaboration"
+    ],
+    "requirements": [
+      "Access to a computer"
+    ],
+    "partnerIds": [
+      "p-abc",
+      "p-sylhet",
+      "p-ctg",
+      "p-barishal"
+    ],
+    "thumbnail": {
+      "hue": "sky",
+      "icon": "file-spreadsheet"
+    },
+    "curriculum": [
+      {
+        "id": "off-m1",
+        "title": "Module 1 — Word",
+        "lessons": [
+          {
+            "id": "off-m1-l1",
+            "title": "Document structure",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "off-m1-l2",
+            "title": "Styles and templates",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "off-m1-l3",
+            "title": "Word quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "off-m2",
+        "title": "Module 2 — Excel",
+        "lessons": [
+          {
+            "id": "off-m2-l1",
+            "title": "Formulas",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "off-m2-l2",
+            "title": "Pivot tables",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "off-m2-l3",
+            "title": "Excel assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "off-m3",
+        "title": "Module 3 — PowerPoint",
+        "lessons": [
+          {
+            "id": "off-m3-l1",
+            "title": "Presentation design",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "off-m3-l2",
+            "title": "Final project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-eng",
+    "slug": "workplace-english-communication",
+    "title": "Workplace English & Communication",
+    "shortDescription": "Speak, write and present with confidence in professional settings.",
+    "description": "Improve spoken and written English for the workplace, including emails, meetings, interviews and presentations.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-lang",
+    "instructorId": "ins-6",
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "level": "Intermediate",
+    "durationWeeks": 8,
+    "hoursPerWeek": 4,
+    "language": "English",
+    "students": 2740,
+    "rating": 4.8,
+    "reviewCount": 615,
+    "price": 4000,
+    "certificate": true,
+    "nextIntake": "2026-10-08",
+    "outcomes": [
+      "Professional email writing",
+      "Meetings and discussions",
+      "Interview preparation",
+      "Presentation delivery"
+    ],
+    "requirements": [
+      "Basic English reading ability"
+    ],
+    "partnerIds": [
+      "p-sylhet",
+      "p-barishal"
+    ],
+    "thumbnail": {
+      "hue": "blue",
+      "icon": "languages"
+    },
+    "curriculum": [
+      {
+        "id": "eng-m1",
+        "title": "Module 1 — Foundations",
+        "lessons": [
+          {
+            "id": "eng-m1-l1",
+            "title": "Self-assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": true
+          },
+          {
+            "id": "eng-m1-l2",
+            "title": "Pronunciation basics",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "eng-m1-l3",
+            "title": "Foundations quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "eng-m2",
+        "title": "Module 2 — Writing",
+        "lessons": [
+          {
+            "id": "eng-m2-l1",
+            "title": "Emails and messages",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "eng-m2-l2",
+            "title": "Reports",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "eng-m2-l3",
+            "title": "Writing assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "eng-m3",
+        "title": "Module 3 — Speaking",
+        "lessons": [
+          {
+            "id": "eng-m3-l1",
+            "title": "Meetings",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "eng-m3-l2",
+            "title": "Interviews",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "eng-m3-l3",
+            "title": "Final presentation project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-free",
+    "slug": "freelancing-career-launchpad",
+    "title": "Freelancing Career Launchpad",
+    "shortDescription": "Win clients, price your work and build a sustainable independent career.",
+    "description": "Everything you need to start freelancing responsibly: profiles, proposals, pricing, client communication and getting paid.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-free",
+    "instructorId": "ins-2",
+    "modes": [
+      "online"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 6,
+    "hoursPerWeek": 4,
+    "language": "Bangla",
+    "students": 1980,
+    "rating": 4.6,
+    "reviewCount": 420,
+    "price": 0,
+    "certificate": true,
+    "nextIntake": "2026-10-03",
+    "outcomes": [
+      "Choosing a niche",
+      "Profiles and proposals",
+      "Pricing your services",
+      "Client management",
+      "Receiving international payments"
+    ],
+    "requirements": [
+      "A marketable skill or one in progress"
+    ],
+    "partnerIds": [],
+    "thumbnail": {
+      "hue": "teal",
+      "icon": "rocket"
+    },
+    "curriculum": [
+      {
+        "id": "fr-m1",
+        "title": "Module 1 — Getting Ready",
+        "lessons": [
+          {
+            "id": "fr-m1-l1",
+            "title": "Is freelancing for you?",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "fr-m1-l2",
+            "title": "Choosing a niche",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "fr-m1-l3",
+            "title": "Readiness quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "fr-m2",
+        "title": "Module 2 — Winning Work",
+        "lessons": [
+          {
+            "id": "fr-m2-l1",
+            "title": "Profiles that convert",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "fr-m2-l2",
+            "title": "Writing proposals",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "fr-m2-l3",
+            "title": "Proposal project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "fr-m3",
+        "title": "Module 3 — Running a Business",
+        "lessons": [
+          {
+            "id": "fr-m3-l1",
+            "title": "Pricing",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "fr-m3-l2",
+            "title": "Payments and records",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "fr-m3-l3",
+            "title": "Final assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-hosp",
+    "slug": "front-office-hospitality",
+    "title": "Front Office & Hospitality Operations",
+    "shortDescription": "Guest service, reservations and front-desk operations for hotels and resorts.",
+    "description": "Prepare for roles in hotels and resorts with training in guest service, reservation systems and professional conduct, including a placement practicum.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-hosp",
+    "instructorId": "ins-6",
+    "modes": [
+      "offline"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 12,
+    "hoursPerWeek": 10,
+    "language": "Bangla & English",
+    "students": 520,
+    "rating": 4.7,
+    "reviewCount": 96,
+    "price": 9000,
+    "certificate": true,
+    "nextIntake": "2026-11-16",
+    "outcomes": [
+      "Guest service standards",
+      "Reservations and check-in",
+      "Handling complaints",
+      "Hospitality etiquette"
+    ],
+    "requirements": [
+      "Minimum HSC or equivalent"
+    ],
+    "partnerIds": [
+      "p-ctg",
+      "p-sylhet"
+    ],
+    "thumbnail": {
+      "hue": "indigo",
+      "icon": "concierge-bell"
+    },
+    "curriculum": [
+      {
+        "id": "hosp-m1",
+        "title": "Module 1 — Hospitality Basics",
+        "lessons": [
+          {
+            "id": "hosp-m1-l1",
+            "title": "The hospitality industry",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "hosp-m1-l2",
+            "title": "Service mindset",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "hosp-m1-l3",
+            "title": "Basics quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "hosp-m2",
+        "title": "Module 2 — Front Office",
+        "lessons": [
+          {
+            "id": "hosp-m2-l1",
+            "title": "Reservations",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "hosp-m2-l2",
+            "title": "Check-in and check-out",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "hosp-m2-l3",
+            "title": "Front office practical",
+            "type": "video",
+            "durationMinutes": 14,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-care",
+    "slug": "certified-caregiver-training",
+    "title": "Certified Caregiver Training",
+    "shortDescription": "Patient care, first aid and elderly support with supervised clinical practice.",
+    "description": "Develop the knowledge and practical skills to support patients and elderly people safely at home and in care facilities.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-health",
+    "instructorId": "ins-5",
+    "modes": [
+      "offline"
+    ],
+    "level": "Beginner",
+    "durationWeeks": 16,
+    "hoursPerWeek": 12,
+    "language": "Bangla",
+    "students": 410,
+    "rating": 4.8,
+    "reviewCount": 88,
+    "price": 11000,
+    "certificate": true,
+    "nextIntake": "2026-11-23",
+    "outcomes": [
+      "Basic patient care",
+      "First aid and CPR",
+      "Nutrition and hygiene",
+      "Communication with patients"
+    ],
+    "requirements": [
+      "Minimum SSC or equivalent",
+      "Medical fitness certificate"
+    ],
+    "partnerIds": [
+      "p-dhaka-tech",
+      "p-rajshahi"
+    ],
+    "thumbnail": {
+      "hue": "teal",
+      "icon": "heart-pulse"
+    },
+    "curriculum": [
+      {
+        "id": "care-m1",
+        "title": "Module 1 — Foundations of Care",
+        "lessons": [
+          {
+            "id": "care-m1-l1",
+            "title": "Role of a caregiver",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "care-m1-l2",
+            "title": "Ethics and dignity",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "care-m1-l3",
+            "title": "Foundations quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "care-m2",
+        "title": "Module 2 — Clinical Skills",
+        "lessons": [
+          {
+            "id": "care-m2-l1",
+            "title": "Vital signs",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "care-m2-l2",
+            "title": "First aid and CPR",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "care-m2-l3",
+            "title": "Clinical practical assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-pm",
+    "slug": "project-management-essentials",
+    "title": "Project Management Essentials",
+    "shortDescription": "Plan, schedule and deliver projects using proven frameworks and tools.",
+    "description": "Learn the essentials of planning and delivering projects, including scope, scheduling, risk, stakeholder management and agile methods.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-biz",
+    "instructorId": "ins-4",
+    "modes": [
+      "online"
+    ],
+    "level": "Intermediate",
+    "durationWeeks": 8,
+    "hoursPerWeek": 5,
+    "language": "English",
+    "students": 1320,
+    "rating": 4.7,
+    "reviewCount": 280,
+    "price": 7000,
+    "certificate": true,
+    "nextIntake": "2026-10-15",
+    "outcomes": [
+      "Project lifecycle",
+      "Scope and scheduling",
+      "Risk management",
+      "Agile and Scrum basics"
+    ],
+    "requirements": [
+      "Some workplace experience recommended"
+    ],
+    "partnerIds": [],
+    "thumbnail": {
+      "hue": "navy",
+      "icon": "kanban"
+    },
+    "curriculum": [
+      {
+        "id": "pm-m1",
+        "title": "Module 1 — Foundations",
+        "lessons": [
+          {
+            "id": "pm-m1-l1",
+            "title": "What is a project?",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": true
+          },
+          {
+            "id": "pm-m1-l2",
+            "title": "The project lifecycle",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": true
+          },
+          {
+            "id": "pm-m1-l3",
+            "title": "Foundations quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "pm-m2",
+        "title": "Module 2 — Planning",
+        "lessons": [
+          {
+            "id": "pm-m2-l1",
+            "title": "Scope",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "pm-m2-l2",
+            "title": "Scheduling",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "pm-m2-l3",
+            "title": "Planning project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "pm-m3",
+        "title": "Module 3 — Delivery",
+        "lessons": [
+          {
+            "id": "pm-m3-l1",
+            "title": "Risk",
+            "type": "video",
+            "durationMinutes": 21,
+            "isPreview": false
+          },
+          {
+            "id": "pm-m3-l2",
+            "title": "Agile basics",
+            "type": "video",
+            "durationMinutes": 10,
+            "isPreview": false
+          },
+          {
+            "id": "pm-m3-l3",
+            "title": "Final assessment",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c-career",
+    "slug": "career-readiness-program",
+    "title": "Career Readiness Program",
+    "shortDescription": "CVs, interviews, workplace etiquette and planning your first career steps.",
+    "description": "A short, practical programme that prepares young people to find, apply for and succeed in their first professional role.",
+    "image": "",
+    "imageAlt": "",
+    "categoryId": "cat-pd",
+    "instructorId": "ins-6",
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "level": "All Levels",
+    "durationWeeks": 4,
+    "hoursPerWeek": 3,
+    "language": "Bangla",
+    "students": 4210,
+    "rating": 4.8,
+    "reviewCount": 960,
+    "price": 0,
+    "certificate": true,
+    "nextIntake": "2026-10-01",
+    "outcomes": [
+      "Writing a strong CV",
+      "Interview skills",
+      "Workplace etiquette",
+      "Career planning"
+    ],
+    "requirements": [
+      "None"
+    ],
+    "partnerIds": [
+      "p-abc",
+      "p-barishal",
+      "p-khulna"
+    ],
+    "thumbnail": {
+      "hue": "sky",
+      "icon": "sprout"
+    },
+    "curriculum": [
+      {
+        "id": "cr-m1",
+        "title": "Module 1 — Know Yourself",
+        "lessons": [
+          {
+            "id": "cr-m1-l1",
+            "title": "Strengths and interests",
+            "type": "video",
+            "durationMinutes": 15,
+            "isPreview": true
+          },
+          {
+            "id": "cr-m1-l2",
+            "title": "Career paths",
+            "type": "video",
+            "durationMinutes": 22,
+            "isPreview": true
+          },
+          {
+            "id": "cr-m1-l3",
+            "title": "Self-assessment quiz",
+            "type": "quiz",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      },
+      {
+        "id": "cr-m2",
+        "title": "Module 2 — Get Hired",
+        "lessons": [
+          {
+            "id": "cr-m2-l1",
+            "title": "CV writing",
+            "type": "video",
+            "durationMinutes": 18,
+            "isPreview": false
+          },
+          {
+            "id": "cr-m2-l2",
+            "title": "Interviews",
+            "type": "reading",
+            "durationMinutes": 25,
+            "isPreview": false
+          },
+          {
+            "id": "cr-m2-l3",
+            "title": "Mock interview project",
+            "type": "assignment",
+            "durationMinutes": 30,
+            "isPreview": false
+          }
+        ]
+      }
+    ]
+  }
+]

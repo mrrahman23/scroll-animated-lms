@@ -1,0 +1,304 @@
+[
+  {
+    "id": "p-abc",
+    "slug": "abc-training-center",
+    "name": "ABC Training Center",
+    "shortName": "ABC",
+    "logo": "/images/partners/abc-training-center.svg",
+    "type": "Training Center",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "address": "House 24, Road 7, Dhanmondi, Dhaka 1205",
+    "phone": "+880 2-5566-1200",
+    "email": "info@abctraining.example",
+    "website": "https://abctraining.example",
+    "authorizationNumber": "NYTI-AP-2021-0014",
+    "status": "active",
+    "since": 2021,
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-gd",
+      "cat-it",
+      "cat-office",
+      "cat-pd"
+    ],
+    "courseIds": [
+      "c-gd",
+      "c-web",
+      "c-office",
+      "c-career"
+    ],
+    "facilities": [
+      "3 computer labs (90 seats)",
+      "Design studio with drawing tablets",
+      "Projector-equipped classrooms",
+      "Wheelchair-accessible entrance"
+    ],
+    "certificatesIssued": 2140,
+    "studentsTrained": 3380,
+    "description": "A long-standing Dhaka training center specialising in design and IT skills, delivering NYTI programmes in blended and classroom formats."
+  },
+  {
+    "id": "p-dhaka-tech",
+    "slug": "dhaka-polytechnic-skills-institute",
+    "name": "Dhaka Polytechnic Skills Institute",
+    "shortName": "DPSI",
+    "logo": "/images/partners/dhaka-polytechnic-skills-institute.svg",
+    "type": "Technical Institute",
+    "city": "Dhaka",
+    "district": "Dhaka",
+    "address": "Plot 11, Tejgaon Industrial Area, Dhaka 1208",
+    "phone": "+880 2-8870-4410",
+    "email": "admissions@dpsi.example",
+    "website": "https://dpsi.example",
+    "authorizationNumber": "NYTI-AP-2019-0003",
+    "status": "active",
+    "since": 2019,
+    "modes": [
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-tech",
+      "cat-health"
+    ],
+    "courseIds": [
+      "c-elec",
+      "c-care"
+    ],
+    "facilities": [
+      "Electrical workshop with 40 stations",
+      "Clinical skills lab",
+      "Safety equipment store",
+      "Student canteen"
+    ],
+    "certificatesIssued": 3890,
+    "studentsTrained": 5120,
+    "description": "One of NYTI's founding technical partners, offering workshop-based vocational programmes aligned to national occupational standards."
+  },
+  {
+    "id": "p-ctg",
+    "slug": "chattogram-career-academy",
+    "name": "Chattogram Career Academy",
+    "shortName": "CCA",
+    "logo": "/images/partners/chattogram-career-academy.svg",
+    "type": "Training Center",
+    "city": "Chattogram",
+    "district": "Chattogram",
+    "address": "4th Floor, GEC Circle Tower, Chattogram 4000",
+    "phone": "+880 31-261-7780",
+    "email": "hello@cca.example",
+    "authorizationNumber": "NYTI-AP-2020-0009",
+    "status": "active",
+    "since": 2020,
+    "modes": [
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-fin",
+      "cat-gd",
+      "cat-hosp",
+      "cat-office"
+    ],
+    "courseIds": [
+      "c-acc",
+      "c-gd",
+      "c-hosp",
+      "c-office"
+    ],
+    "facilities": [
+      "2 computer labs",
+      "Mock hotel front desk",
+      "Library and study area"
+    ],
+    "certificatesIssued": 1560,
+    "studentsTrained": 2210,
+    "description": "Serving the port city with career-focused programmes in accounting, design, hospitality and office skills."
+  },
+  {
+    "id": "p-sylhet",
+    "slug": "sylhet-youth-skills-hub",
+    "name": "Sylhet Youth Skills Hub",
+    "shortName": "SYSH",
+    "logo": "/images/partners/sylhet-youth-skills-hub.svg",
+    "type": "NGO",
+    "city": "Sylhet",
+    "district": "Sylhet",
+    "address": "Zindabazar Main Road, Sylhet 3100",
+    "phone": "+880 821-71-4455",
+    "email": "contact@sysh.example",
+    "website": "https://sysh.example",
+    "authorizationNumber": "NYTI-AP-2022-0021",
+    "status": "active",
+    "since": 2022,
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-gd",
+      "cat-lang",
+      "cat-office",
+      "cat-hosp"
+    ],
+    "courseIds": [
+      "c-gd",
+      "c-eng",
+      "c-office",
+      "c-hosp"
+    ],
+    "facilities": [
+      "Computer lab (30 seats)",
+      "Language lab",
+      "Community hall"
+    ],
+    "certificatesIssued": 980,
+    "studentsTrained": 1640,
+    "description": "A youth-led NGO bringing accredited training to young people across the Sylhet division."
+  },
+  {
+    "id": "p-rajshahi",
+    "slug": "rajshahi-institute-of-applied-skills",
+    "name": "Rajshahi Institute of Applied Skills",
+    "shortName": "RIAS",
+    "logo": "/images/partners/rajshahi-institute-of-applied-skills.svg",
+    "type": "Technical Institute",
+    "city": "Rajshahi",
+    "district": "Rajshahi",
+    "address": "Shaheb Bazar, Rajshahi 6100",
+    "phone": "+880 721-77-3021",
+    "email": "info@rias.example",
+    "authorizationNumber": "NYTI-AP-2021-0017",
+    "status": "active",
+    "since": 2021,
+    "modes": [
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-it",
+      "cat-tech",
+      "cat-health"
+    ],
+    "courseIds": [
+      "c-web",
+      "c-elec",
+      "c-care"
+    ],
+    "facilities": [
+      "Networking lab",
+      "Electrical workshop",
+      "Clinical skills room"
+    ],
+    "certificatesIssued": 1210,
+    "studentsTrained": 1890,
+    "description": "Technical and IT training for the northern region with strong links to local employers."
+  },
+  {
+    "id": "p-khulna",
+    "slug": "khulna-skills-development-center",
+    "name": "Khulna Skills Development Center",
+    "shortName": "KSDC",
+    "logo": "/images/partners/khulna-skills-development-center.svg",
+    "type": "Training Center",
+    "city": "Khulna",
+    "district": "Khulna",
+    "address": "KDA Avenue, Khulna 9100",
+    "phone": "+880 41-72-1180",
+    "email": "ksdc@ksdc.example",
+    "authorizationNumber": "NYTI-AP-2023-0028",
+    "status": "active",
+    "since": 2023,
+    "modes": [
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-fin",
+      "cat-tech",
+      "cat-pd"
+    ],
+    "courseIds": [
+      "c-acc",
+      "c-elec",
+      "c-career"
+    ],
+    "facilities": [
+      "Accounting lab",
+      "Electrical workshop",
+      "Career counselling room"
+    ],
+    "certificatesIssued": 540,
+    "studentsTrained": 910,
+    "description": "A growing center offering finance, technical and career-readiness training in the south-west."
+  },
+  {
+    "id": "p-barishal",
+    "slug": "barishal-digital-learning-center",
+    "name": "Barishal Digital Learning Center",
+    "shortName": "BDLC",
+    "logo": "/images/partners/barishal-digital-learning-center.svg",
+    "type": "College",
+    "city": "Barishal",
+    "district": "Barishal",
+    "address": "Sadar Road, Barishal 8200",
+    "phone": "+880 431-217-660",
+    "email": "office@bdlc.example",
+    "authorizationNumber": "NYTI-AP-2024-0033",
+    "status": "active",
+    "since": 2024,
+    "modes": [
+      "online",
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-office",
+      "cat-lang",
+      "cat-pd"
+    ],
+    "courseIds": [
+      "c-office",
+      "c-eng",
+      "c-career"
+    ],
+    "facilities": [
+      "Computer lab (40 seats)",
+      "Smart classroom",
+      "Online proctoring room"
+    ],
+    "certificatesIssued": 320,
+    "studentsTrained": 610,
+    "description": "A college-based learning center combining classroom sessions with NYTI online programmes."
+  },
+  {
+    "id": "p-mymensingh",
+    "slug": "mymensingh-agro-tech-academy",
+    "name": "Mymensingh Agro-Tech Academy",
+    "shortName": "MATA",
+    "logo": "/images/partners/mymensingh-agro-tech-academy.svg",
+    "type": "Corporate Academy",
+    "city": "Mymensingh",
+    "district": "Mymensingh",
+    "address": "Charpara, Mymensingh 2200",
+    "phone": "+880 91-66-5520",
+    "email": "academy@mata.example",
+    "authorizationNumber": "NYTI-AP-2026-0041",
+    "status": "pending",
+    "since": 2026,
+    "modes": [
+      "offline"
+    ],
+    "categoryIds": [
+      "cat-tech",
+      "cat-biz"
+    ],
+    "courseIds": [],
+    "facilities": [
+      "Training farm",
+      "Machinery workshop"
+    ],
+    "certificatesIssued": 0,
+    "studentsTrained": 0,
+    "description": "Applicant partner under NYTI review. Not yet authorized to deliver certified programmes."
+  }
+]

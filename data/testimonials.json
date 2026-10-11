@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t-1",
+    "name": "Sarah Rahman",
+    "courseTitle": "Professional Digital Marketing",
+    "location": "Dhaka",
+    "isSample": true,
+    "quote": "The training helped me develop practical skills and gave me confidence to start my career."
+  },
+  {
+    "id": "t-2",
+    "name": "Arif Hasan",
+    "courseTitle": "Industrial Electrical Installation",
+    "location": "Rajshahi",
+    "isSample": true,
+    "quote": "The workshop sessions were hands-on from day one. My employer verified my certificate online in under a minute."
+  },
+  {
+    "id": "t-3",
+    "name": "Mim Akter",
+    "courseTitle": "Professional Graphic Design",
+    "location": "Sylhet",
+    "isSample": true,
+    "quote": "I studied in person at an authorized partner and finished with a portfolio I'm proud to show clients."
+  }
+]

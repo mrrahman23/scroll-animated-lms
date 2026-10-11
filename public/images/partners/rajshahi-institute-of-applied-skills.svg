@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 80" role="img" aria-label="Rajshahi Institute of Applied Skills">
+  <path d="M36 12 60 26v28L36 68 12 54V26Z" fill="#7c3aed"/><path d="M36 26 48 33v14l-12 7-12-7V33Z" fill="#c4b5fd"/>
+  <text x="78" y="36" font-size="22" font-weight="700" letter-spacing="1" fill="#0f172a" font-family="Helvetica, Arial, sans-serif">RIAS</text>
+  <text x="78" y="50" font-size="11" fill="#475569" font-family="Helvetica, Arial, sans-serif">Rajshahi Institute of</text><text x="78" y="63" font-size="11" fill="#475569" font-family="Helvetica, Arial, sans-serif">Applied Skills</text>
+</svg>

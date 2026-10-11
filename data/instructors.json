@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ins-1",
+    "name": "Farhana Kabir",
+    "title": "Senior Brand Designer",
+    "initials": "FK",
+    "rating": 4.9,
+    "students": 3120,
+    "bio": "12 years leading brand identity projects for agencies and NGOs across South Asia."
+  },
+  {
+    "id": "ins-2",
+    "name": "Tanvir Ahmed",
+    "title": "Growth Marketing Lead",
+    "initials": "TA",
+    "rating": 4.8,
+    "students": 4580,
+    "bio": "Former head of performance marketing at a regional e-commerce company."
+  },
+  {
+    "id": "ins-3",
+    "name": "Nusrat Jahan",
+    "title": "Full-Stack Engineer",
+    "initials": "NJ",
+    "rating": 4.8,
+    "students": 2890,
+    "bio": "Builds production web applications and mentors early-career developers."
+  },
+  {
+    "id": "ins-4",
+    "name": "Md. Habibur Rahman",
+    "title": "Chartered Accountant",
+    "initials": "HR",
+    "rating": 4.7,
+    "students": 1960,
+    "bio": "Practising accountant specialising in SME finance and compliance."
+  },
+  {
+    "id": "ins-5",
+    "name": "Engr. Shahidul Islam",
+    "title": "Electrical Trainer",
+    "initials": "SI",
+    "rating": 4.9,
+    "students": 2240,
+    "bio": "Certified electrical instructor with two decades of industrial experience."
+  },
+  {
+    "id": "ins-6",
+    "name": "Ayesha Siddiqua",
+    "title": "Communication Coach",
+    "initials": "AS",
+    "rating": 4.8,
+    "students": 3410,
+    "bio": "Trains graduates in workplace English, interviews and presentations."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cat-it",
+    "slug": "it-technology",
+    "name": "IT & Technology",
+    "description": "Programming, networking, web and cloud fundamentals.",
+    "icon": "monitor",
+    "courseCount": 18
+  },
+  {
+    "id": "cat-biz",
+    "slug": "business-management",
+    "name": "Business & Management",
+    "description": "Operations, leadership and project management.",
+    "icon": "briefcase",
+    "courseCount": 11
+  },
+  {
+    "id": "cat-fin",
+    "slug": "accounting-finance",
+    "name": "Accounting & Finance",
+    "description": "Bookkeeping, tax basics and financial reporting.",
+    "icon": "calculator",
+    "courseCount": 8
+  },
+  {
+    "id": "cat-mkt",
+    "slug": "digital-marketing",
+    "name": "Digital Marketing",
+    "description": "SEO, social media, content and paid campaigns.",
+    "icon": "megaphone",
+    "courseCount": 9
+  },
+  {
+    "id": "cat-gd",
+    "slug": "graphic-design",
+    "name": "Graphic Design",
+    "description": "Branding, layout, illustration and print design.",
+    "icon": "palette",
+    "courseCount": 7
+  },
+  {
+    "id": "cat-office",
+    "slug": "office-applications",
+    "name": "Office Applications",
+    "description": "Word, Excel, PowerPoint and workplace tools.",
+    "icon": "file-spreadsheet",
+    "courseCount": 6
+  },
+  {
+    "id": "cat-lang",
+    "slug": "language-communication",
+    "name": "Language & Communication",
+    "description": "English, workplace communication and presentation.",
+    "icon": "languages",
+    "courseCount": 7
+  },
+  {
+    "id": "cat-hosp",
+    "slug": "hospitality-tourism",
+    "name": "Hospitality & Tourism",
+    "description": "Front office, food service and tour operations.",
+    "icon": "concierge-bell",
+    "courseCount": 5
+  },
+  {
+    "id": "cat-health",
+    "slug": "healthcare",
+    "name": "Healthcare",
+    "description": "Caregiving, first aid and health assistant skills.",
+    "icon": "heart-pulse",
+    "courseCount": 6
+  },
+  {
+    "id": "cat-tech",
+    "slug": "technical-vocational",
+    "name": "Technical & Vocational",
+    "description": "Electrical, refrigeration, welding and mechanics.",
+    "icon": "wrench",
+    "courseCount": 14
+  },
+  {
+    "id": "cat-free",
+    "slug": "freelancing-entrepreneurship",
+    "name": "Freelancing & Entrepreneurship",
+    "description": "Start, price and grow independent work.",
+    "icon": "rocket",
+    "courseCount": 6
+  },
+  {
+    "id": "cat-pd",
+    "slug": "personal-development",
+    "name": "Personal Development",
+    "description": "Career readiness, productivity and soft skills.",
+    "icon": "sprout",
+    "courseCount": 5
+  }
+]

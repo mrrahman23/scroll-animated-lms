@@ -1,0 +1,42 @@
+[
+  {
+    "id": "n-1",
+    "userId": "u-reja",
+    "title": "Assignment due soon",
+    "body": "Social media project is due on 30 September.",
+    "type": "assessment",
+    "createdAt": "2026-09-25T08:30:00",
+    "read": false,
+    "href": "/dashboard/assessments"
+  },
+  {
+    "id": "n-2",
+    "userId": "u-reja",
+    "title": "New lesson available",
+    "body": "Photo retouching is now unlocked in Professional Graphic Design.",
+    "type": "course",
+    "createdAt": "2026-09-23T15:10:00",
+    "read": false,
+    "href": "/dashboard/courses"
+  },
+  {
+    "id": "n-3",
+    "userId": "u-reja",
+    "title": "Your certificate was verified",
+    "body": "An employer verified certificate NYTI-2026-000417.",
+    "type": "certificate",
+    "createdAt": "2026-09-18T11:02:00",
+    "read": true,
+    "href": "/dashboard/certificates"
+  },
+  {
+    "id": "n-4",
+    "userId": "u-reja",
+    "title": "Payment received",
+    "body": "We received BDT 8,500 for Professional Graphic Design.",
+    "type": "payment",
+    "createdAt": "2026-08-10T09:45:00",
+    "read": true,
+    "href": "/dashboard/payments"
+  }
+]

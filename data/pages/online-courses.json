@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "eyebrow": "Online learning",
+    "title": "Learn anywhere, on your schedule",
+    "description": "Structured online programmes with video lessons, online assessments and the same NYTI certification as classroom training."
+  },
+  "features": [
+    {
+      "icon": "monitor-play",
+      "title": "Video lessons",
+      "body": "Learn at your own pace on any device."
+    },
+    {
+      "icon": "download",
+      "title": "Downloadable resources",
+      "body": "Workbooks, templates and exercise files."
+    },
+    {
+      "icon": "message-circle",
+      "title": "Instructor support",
+      "body": "Ask questions and get feedback weekly."
+    },
+    {
+      "icon": "shield-check",
+      "title": "Digital certificate",
+      "body": "Verifiable online by any employer."
+    }
+  ]
+}

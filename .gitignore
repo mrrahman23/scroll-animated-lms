@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cPanel packages
+/deploy
+
+# Admin content editor: saved versions (kept on the server)
+/data/.history
+
+# Old verify.nytibd.com database exports (personal data — never commit)
+/legacy
+# Admin uploads of old exports, and photos downloaded from the old site
+/data/legacy-import
+/data/uploads/legacy

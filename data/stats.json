@@ -1,0 +1,8 @@
+{
+  "platform": [
+    { "key": "learners", "value": 10000, "suffix": "+", "label": "Learners trained" },
+    { "key": "courses", "value": 100, "suffix": "+", "label": "Professional courses" },
+    { "key": "partners", "value": 50, "suffix": "+", "label": "Authorized partners" },
+    { "key": "success", "value": 95, "suffix": "%", "label": "Certification success rate" }
+  ]
+}

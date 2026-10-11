@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "eyebrow": "Support",
+    "title": "Help Center",
+    "description": "Find answers quickly, or get in touch with our support team."
+  },
+  "topics": [
+    {
+      "icon": "book-open",
+      "title": "Courses & enrolment",
+      "href": "/courses"
+    },
+    {
+      "icon": "shield-check",
+      "title": "Certificates & verification",
+      "href": "/certifications"
+    },
+    {
+      "icon": "credit-card",
+      "title": "Payments & refunds",
+      "href": "#faq"
+    },
+    {
+      "icon": "life-buoy",
+      "title": "Contact support",
+      "href": "/contact"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I enrol in a course?",
+      "answer": "Create a free account, open the course page and choose Enroll Now. For paid courses you can pay with bKash, Nagad, card or bank transfer."
+    },
+    {
+      "question": "Are online and offline certificates the same?",
+      "answer": "Yes. Both lead to the same NYTI-certified certificate once you complete the training and pass the required assessment."
+    },
+    {
+      "question": "How can an employer verify my certificate?",
+      "answer": "They can enter your certificate ID on the Verify Certificate page or scan the QR code printed on the certificate."
+    },
+    {
+      "question": "What if my certificate shows as expired?",
+      "answer": "Some safety-critical occupational certificates must be renewed. Contact your training partner or NYTI to arrange a renewal assessment."
+    },
+    {
+      "question": "Can I get a refund?",
+      "answer": "Refunds are available within 7 days of enrolment if you have completed less than 20% of the course."
+    },
+    {
+      "question": "How does an institution become an authorized partner?",
+      "answer": "Submit an application on the Become a Partner page. NYTI reviews documents, inspects the facility and then issues an authorization number."
+    }
+  ]
+}

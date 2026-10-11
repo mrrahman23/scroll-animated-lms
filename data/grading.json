@@ -1,0 +1,15 @@
+{
+  "scale": [
+    { "minMarks": 80, "grade": "A+", "gradePoint": 4 },
+    { "minMarks": 75, "grade": "A", "gradePoint": 3.75 },
+    { "minMarks": 70, "grade": "A-", "gradePoint": 3.55 },
+    { "minMarks": 65, "grade": "B+", "gradePoint": 3.25 },
+    { "minMarks": 60, "grade": "B", "gradePoint": 3 },
+    { "minMarks": 55, "grade": "B-", "gradePoint": 2.75 },
+    { "minMarks": 50, "grade": "C+", "gradePoint": 2.5 },
+    { "minMarks": 45, "grade": "C", "gradePoint": 2.25 },
+    { "minMarks": 40, "grade": "D", "gradePoint": 2 },
+    { "minMarks": 0, "grade": "F", "gradePoint": 0 }
+  ],
+  "failGrade": "F"
+}

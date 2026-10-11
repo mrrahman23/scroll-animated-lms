@@ -1,0 +1,40 @@
+[
+  {
+    "id": "a-1",
+    "courseId": "c-dm",
+    "title": "Social media project",
+    "type": "assignment",
+    "dueDate": "2026-09-30",
+    "status": "upcoming",
+    "maxScore": 100
+  },
+  {
+    "id": "a-2",
+    "courseId": "c-gd",
+    "title": "Photoshop assessment",
+    "type": "practical",
+    "dueDate": "2026-10-06",
+    "status": "upcoming",
+    "maxScore": 100
+  },
+  {
+    "id": "a-3",
+    "courseId": "c-dm",
+    "title": "SEO quiz",
+    "type": "quiz",
+    "dueDate": "2026-09-12",
+    "status": "graded",
+    "score": 88,
+    "maxScore": 100
+  },
+  {
+    "id": "a-4",
+    "courseId": "c-gd",
+    "title": "Fundamentals quiz",
+    "type": "quiz",
+    "dueDate": "2026-09-02",
+    "status": "graded",
+    "score": 92,
+    "maxScore": 100
+  }
+]

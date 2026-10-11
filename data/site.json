@@ -1,0 +1,230 @@
+{
+  "name": "National Youth Training Institute",
+  "shortName": "NYTI",
+  "tagline": "Empowering youth through skills, training & opportunity.",
+  "motto": "Learn. Get Certified. Build Your Future.",
+  "url": "https://nyti.gov.bd",
+  "logo": "",
+  "logoOnDark": "",
+  "showNameWithLogo": true,
+  "seo": {
+    "title": "National Youth Training Institute (NYTI) — Learn. Get Certified. Build Your Future.",
+    "description": "NYTI provides accessible online and offline training programmes, recognised certification, and public certificate verification through a network of authorized training partners."
+  },
+  "announcement": "Official training & certification portal of the National Youth Training Institute",
+  "contact": {
+    "addressLines": [
+      "NYTI Bhaban, Agargaon",
+      "Dhaka 1207, Bangladesh"
+    ],
+    "phones": [
+      "09612-000000",
+      "+880 2-5500-0000"
+    ],
+    "emails": {
+      "general": "info@nyti.gov.bd",
+      "verification": "verification@nyti.gov.bd"
+    },
+    "officeHours": [
+      "Sunday – Thursday",
+      "9:00 AM – 5:00 PM"
+    ],
+    "mapEmbedUrl": ""
+  },
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "#"
+    },
+    {
+      "platform": "linkedin",
+      "url": "#"
+    },
+    {
+      "platform": "youtube",
+      "url": "#"
+    },
+    {
+      "platform": "x",
+      "url": "#"
+    }
+  ],
+  "certificate": {
+    "signatoryName": "A. K. Chowdhury",
+    "signatoryTitle": "Director General, NYTI"
+  },
+  "verification": {
+    "exampleId": "NYTI-2026-000123",
+    "samples": [
+      {
+        "label": "Valid",
+        "id": "NYTI-2026-000123"
+      },
+      {
+        "label": "Expired",
+        "id": "NYTI-2023-004210"
+      },
+      {
+        "label": "Revoked",
+        "id": "NYTI-2025-002977"
+      }
+    ]
+  },
+  "navigation": {
+    "courses": [
+      {
+        "label": "All Courses",
+        "href": "/courses",
+        "description": "Browse every NYTI training programme"
+      },
+      {
+        "label": "Online Courses",
+        "href": "/online-courses",
+        "description": "Learn anywhere, at your own pace"
+      },
+      {
+        "label": "Offline Training",
+        "href": "/offline-training",
+        "description": "Classroom training at partner centers"
+      },
+      {
+        "label": "Certifications",
+        "href": "/certifications",
+        "description": "How NYTI certification works"
+      }
+    ],
+    "main": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Authorized Partners",
+        "shortLabel": "Partners",
+        "href": "/partners"
+      },
+      {
+        "label": "About NYTI",
+        "shortLabel": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "footer": [
+      {
+        "title": "NYTI",
+        "links": [
+          {
+            "label": "About NYTI",
+            "href": "/about"
+          },
+          {
+            "label": "Mission & Vision",
+            "href": "/about#mission"
+          },
+          {
+            "label": "Leadership",
+            "href": "/about#leadership"
+          },
+          {
+            "label": "News & Updates",
+            "href": "/news"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact"
+          }
+        ]
+      },
+      {
+        "title": "Courses",
+        "links": [
+          {
+            "label": "Online Courses",
+            "href": "/online-courses"
+          },
+          {
+            "label": "Offline Training",
+            "href": "/offline-training"
+          },
+          {
+            "label": "Course Categories",
+            "href": "/courses#categories"
+          },
+          {
+            "label": "Certification",
+            "href": "/certifications"
+          }
+        ]
+      },
+      {
+        "title": "Verification",
+        "links": [
+          {
+            "label": "Verify Certificate",
+            "href": "/verify-certificate"
+          },
+          {
+            "label": "Certificate Information",
+            "href": "/certifications#verification"
+          },
+          {
+            "label": "Authorized Partners",
+            "href": "/partners"
+          },
+          {
+            "label": "Become a Partner",
+            "href": "/become-a-partner"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "label": "Help Center",
+            "href": "/help"
+          },
+          {
+            "label": "FAQ",
+            "href": "/help#faq"
+          },
+          {
+            "label": "Contact Support",
+            "href": "/contact"
+          },
+          {
+            "label": "Terms & Conditions",
+            "href": "/terms"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy"
+          }
+        ]
+      }
+    ]
+  },
+  "footerNote": "Every NYTI certificate can be independently verified by employers and institutions.",
+  "copyright": "© 2026 National Youth Training Institute. All Rights Reserved.",
+  "payments": {
+    "instructions": "Send the course fee, then enter the transaction ID you receive. Your enrolment activates once our team confirms the payment (usually within one working day).",
+    "methods": [
+      {
+        "method": "bKash",
+        "details": "Send Money to 01700-000000 (NYTI Merchant)"
+      },
+      {
+        "method": "Nagad",
+        "details": "Send Money to 01800-000000 (NYTI)"
+      },
+      {
+        "method": "Bank Transfer",
+        "details": "National Youth Training Institute · A/C 0000000000000 · Example Bank, Dhaka"
+      }
+    ]
+  }
+}

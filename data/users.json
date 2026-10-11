@@ -1,0 +1,48 @@
+{
+  "student": {
+    "id": "u-reja",
+    "name": "Reja Rahman",
+    "firstName": "Reja",
+    "email": "reja@example.com",
+    "phone": "+880 1700-000000",
+    "role": "student",
+    "location": "Dhaka, Bangladesh",
+    "joinedAt": "2025-11-04",
+    "learningHours": 86,
+    "weeklyHours": [
+      { "day": "Sun", "hours": 1.5 },
+      { "day": "Mon", "hours": 2.2 },
+      { "day": "Tue", "hours": 0.8 },
+      { "day": "Wed", "hours": 2.6 },
+      { "day": "Thu", "hours": 1.2 },
+      { "day": "Fri", "hours": 0 },
+      { "day": "Sat", "hours": 3.1 }
+    ]
+  },
+  "instructor": {
+    "id": "u-farhana",
+    "name": "Farhana Kabir",
+    "firstName": "Farhana",
+    "email": "farhana@example.com",
+    "role": "instructor",
+    "joinedAt": "2024-02-10",
+    "instructorId": "ins-1"
+  },
+  "partner": {
+    "id": "u-abc",
+    "name": "ABC Training Center",
+    "firstName": "ABC",
+    "email": "info@abctraining.example",
+    "role": "partner",
+    "joinedAt": "2021-03-01",
+    "partnerId": "p-abc"
+  },
+  "admin": {
+    "id": "u-admin",
+    "name": "Admin Officer",
+    "firstName": "Admin",
+    "email": "admin@nyti.gov.bd",
+    "role": "admin",
+    "joinedAt": "2020-01-01"
+  }
+}

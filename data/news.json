@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nw-1",
+    "slug": "new-cybersecurity-foundations-course",
+    "category": "Course Launch",
+    "date": "2026-09-20",
+    "title": "Cybersecurity Foundations course opens for enrolment",
+    "excerpt": "A new 10-week online programme introducing security principles, safe practices and entry-level careers.",
+    "body": [
+      "NYTI has launched Cybersecurity Foundations, a 10-week online programme designed for learners with basic IT skills.",
+      "The course covers security principles, threat awareness, safe practices for organisations and an overview of entry-level security careers. Successful learners receive an NYTI-certified certificate."
+    ]
+  },
+  {
+    "id": "nw-2",
+    "slug": "october-offline-intake",
+    "category": "Upcoming Training",
+    "date": "2026-09-16",
+    "title": "October offline intake across 7 divisions",
+    "excerpt": "Classroom batches for design, accounting, electrical and hospitality programmes begin next month.",
+    "body": [
+      "Authorized partners across seven divisions will begin new classroom batches in October.",
+      "Seats are limited and allocated on a first-come basis. Applicants can choose their preferred training center during enrolment."
+    ]
+  },
+  {
+    "id": "nw-3",
+    "slug": "national-certification-ceremony-2026",
+    "category": "Ceremony",
+    "date": "2026-09-02",
+    "title": "2,400 learners honoured at the National Certification Ceremony",
+    "excerpt": "Graduates from 38 partner institutions received their certificates in Dhaka.",
+    "body": [
+      "NYTI celebrated 2,400 graduates from 38 authorized partner institutions at this year's National Certification Ceremony.",
+      "Every certificate issued at the ceremony is independently verifiable through the NYTI verification portal."
+    ]
+  },
+  {
+    "id": "nw-4",
+    "slug": "five-new-authorized-partners",
+    "category": "Partners",
+    "date": "2026-08-25",
+    "title": "Five institutions join the authorized partner network",
+    "excerpt": "New partners in Barishal, Khulna and Rangpur expand access to certified training.",
+    "body": [
+      "Five institutions have completed NYTI's authorization review and joined the partner network.",
+      "Each partner has been assessed for facilities, instructor qualifications and assessment integrity."
+    ]
+  },
+  {
+    "id": "nw-5",
+    "slug": "youth-skills-scholarship-program",
+    "category": "Programs",
+    "date": "2026-08-12",
+    "title": "Youth Skills Scholarship Program now accepting applications",
+    "excerpt": "Fully funded places for learners aged 18–30 from underserved communities.",
+    "body": [
+      "The Youth Skills Scholarship Program offers fully funded places on selected NYTI programmes.",
+      "Applications are open to learners aged 18–30. Priority is given to applicants from underserved communities."
+    ]
+  },
+  {
+    "id": "nw-6",
+    "slug": "employer-verification-workshop",
+    "category": "Workshop",
+    "date": "2026-07-30",
+    "title": "Workshop: verifying certificates for HR teams",
+    "excerpt": "A free online session showing employers how to verify NYTI certificates at scale.",
+    "body": [
+      "HR professionals can join a free online workshop on verifying NYTI certificates.",
+      "The session covers the public verification portal, QR codes and what each certificate status means."
+    ]
+  }
+]

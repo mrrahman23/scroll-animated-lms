@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "eyebrow": "Contact",
+    "title": "We're here to help",
+    "description": "Questions about courses, certificates or partnerships? Send us a message and the right team will respond."
+  },
+  "subjects": [
+    "Course enquiry",
+    "Certificate verification",
+    "Partnership",
+    "Payments",
+    "Other"
+  ]
+}

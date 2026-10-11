@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "eyebrow": "About NYTI",
+    "title": "A national institute for youth skills and certification",
+    "description": "The National Youth Training Institute designs training programmes, sets assessment standards, authorizes training partners and maintains the national registry of the certificates it issues."
+  },
+  "mission": "To empower individuals with practical skills, quality training, and recognized certification that support education, employment, entrepreneurship, and lifelong learning.",
+  "vision": "A nation where every young person can access quality training and hold a credential that is recognized, trusted and verifiable.",
+  "objectives": [
+    "Expand access to quality vocational and professional training for young people nationwide.",
+    "Maintain consistent training and assessment standards across online and offline delivery.",
+    "Issue certificates that are trusted by employers and verifiable by anyone.",
+    "Build a network of authorized partners that brings training closer to communities.",
+    "Support employment, self-employment and entrepreneurship through practical skills."
+  ],
+  "standardsTitle": "Standards behind every certificate",
+  "standards": [
+    {
+      "icon": "scale",
+      "title": "Training Standards",
+      "body": "Programmes are mapped to competency standards and reviewed annually with industry advisors."
+    },
+    {
+      "icon": "landmark",
+      "title": "Certification",
+      "body": "Certificates are issued only after verified completion of training and a moderated assessment."
+    },
+    {
+      "icon": "compass",
+      "title": "Authorized Partner Network",
+      "body": "Partners are authorized after document review and a site inspection, and are audited regularly."
+    }
+  ],
+  "leadership": [
+    {
+      "name": "A. K. Chowdhury",
+      "role": "Director General"
+    },
+    {
+      "name": "Dr. Selina Haque",
+      "role": "Director, Training Standards"
+    },
+    {
+      "name": "Mahmudul Karim",
+      "role": "Director, Certification & Verification"
+    },
+    {
+      "name": "Rumana Afroz",
+      "role": "Director, Partner Network"
+    }
+  ],
+  "leadershipNotice": "Placeholder names shown until official leadership profiles are published."
+}

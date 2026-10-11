@@ -1,0 +1,69 @@
+[
+  {
+    "id": "NYTI-2026-000123",
+    "holderName": "John Doe",
+    "courseId": "c-gd",
+    "courseTitle": "Professional Graphic Design",
+    "issuedByPartnerId": "p-abc",
+    "issuedByName": "ABC Training Center",
+    "issueDate": "2026-09-15",
+    "status": "valid",
+    "grade": "A",
+    "mode": "offline",
+    "hours": 72
+  },
+  {
+    "id": "NYTI-2026-000417",
+    "holderName": "Reja Rahman",
+    "holderUserId": "u-reja",
+    "courseId": "c-office",
+    "courseTitle": "Office Applications Professional",
+    "issuedByName": "National Youth Training Institute",
+    "issueDate": "2026-03-28",
+    "status": "valid",
+    "grade": "A+",
+    "mode": "online",
+    "hours": 30
+  },
+  {
+    "id": "NYTI-2026-000588",
+    "holderName": "Reja Rahman",
+    "holderUserId": "u-reja",
+    "courseId": "c-career",
+    "courseTitle": "Career Readiness Program",
+    "issuedByPartnerId": "p-abc",
+    "issuedByName": "ABC Training Center",
+    "issueDate": "2026-06-11",
+    "status": "valid",
+    "grade": "A",
+    "mode": "offline",
+    "hours": 12
+  },
+  {
+    "id": "NYTI-2023-004210",
+    "holderName": "Karim Hossain",
+    "courseId": "c-elec",
+    "courseTitle": "Industrial Electrical Installation",
+    "issuedByPartnerId": "p-dhaka-tech",
+    "issuedByName": "Dhaka Polytechnic Skills Institute",
+    "issueDate": "2023-05-20",
+    "expiryDate": "2026-05-20",
+    "status": "expired",
+    "statusReason": "Occupational safety certifications are valid for three years and must be renewed.",
+    "mode": "offline",
+    "hours": 360
+  },
+  {
+    "id": "NYTI-2025-002977",
+    "holderName": "Rafiq Ullah",
+    "courseId": "c-acc",
+    "courseTitle": "Practical Accounting with Tally",
+    "issuedByPartnerId": "p-ctg",
+    "issuedByName": "Chattogram Career Academy",
+    "issueDate": "2025-12-02",
+    "status": "revoked",
+    "statusReason": "Revoked by NYTI following an assessment integrity review.",
+    "mode": "offline",
+    "hours": 48
+  }
+]

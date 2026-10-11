@@ -1,26 +1,162 @@
 @import "tailwindcss";
+@import "./themes.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/* Theme variants: e.g. `aurora:hidden`, `spark:rotate-2`, `ember:uppercase`, `classic:block` */
+@custom-variant classic (&:where([data-ui="classic"], [data-ui="classic"] *, :root:not([data-ui]) *));
+@custom-variant aurora (&:where([data-ui="aurora"], [data-ui="aurora"] *));
+@custom-variant spark (&:where([data-ui="spark"], [data-ui="spark"] *));
+@custom-variant ember (&:where([data-ui="ember"], [data-ui="ember"] *));
+@custom-variant lunar (&:where([data-ui="lunar"], [data-ui="lunar"] *));
+@custom-variant quest (&:where([data-ui="quest"], [data-ui="quest"] *));
+@custom-variant lab (&:where([data-ui="lab"], [data-ui="lab"] *));
+/* story = scroll-story themes with a student walking to a finale (quest, lab) */
+@custom-variant story (&:where([data-ui="quest"], [data-ui="quest"] *, [data-ui="lab"], [data-ui="lab"] *));
+/* world = themes with a page-wide 3D world behind the site (ember, lunar, quest, lab) */
+@custom-variant world (&:where([data-ui="ember"], [data-ui="ember"] *, [data-ui="lunar"], [data-ui="lunar"] *, [data-ui="quest"], [data-ui="quest"] *, [data-ui="lab"], [data-ui="lab"] *));
+/* fancy = any expressive theme (everything except classic) */
+@custom-variant fancy (&:where([data-ui="aurora"], [data-ui="aurora"] *, [data-ui="spark"], [data-ui="spark"] *, [data-ui="ember"], [data-ui="ember"] *, [data-ui="lunar"], [data-ui="lunar"] *, [data-ui="quest"], [data-ui="quest"] *, [data-ui="lab"], [data-ui="lab"] *));
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+/* ------------------------------------------------------------------
+   NYTI design tokens
+   Navy = institution · Blue = action · Teal = verified · Gold = seal
+   ------------------------------------------------------------------ */
+@theme {
+  --font-sans: var(--font-public-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-source-serif), ui-serif, Georgia, serif;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --color-navy-50: #f2f5fb;
+  --color-navy-100: #e3e9f5;
+  --color-navy-200: #c3cfe6;
+  --color-navy-300: #94a8cf;
+  --color-navy-400: #5f79ad;
+  --color-navy-500: #3d5790;
+  --color-navy-600: #2a4278;
+  --color-navy-700: #1d3265;
+  --color-navy-800: #142654;
+  --color-navy-900: #0c1b40;
+  --color-navy-950: #07112b;
+
+  --color-brand-50: #eef4ff;
+  --color-brand-100: #dbe6fe;
+  --color-brand-200: #bfd3fe;
+  --color-brand-300: #93b4fd;
+  --color-brand-400: #608cf9;
+  --color-brand-500: #3b67f3;
+  --color-brand-600: #2449d8;
+  --color-brand-700: #1d3aaf;
+  --color-brand-800: #1d338c;
+  --color-brand-900: #1d2f6e;
+
+  --color-verify-50: #ecfaf5;
+  --color-verify-100: #d0f2e6;
+  --color-verify-200: #a4e4cf;
+  --color-verify-500: #13a37f;
+  --color-verify-600: #0b8567;
+  --color-verify-700: #096a53;
+  --color-verify-800: #0a5444;
+
+  --color-seal-100: #f7eed8;
+  --color-seal-400: #d2a54c;
+  --color-seal-500: #b98a2f;
+  --color-seal-700: #7c5a1b;
+
+  --color-ink: #0f172a;
+  --color-muted: #52607a;
+  --color-line: #e2e7f0;
+  --color-surface: #f6f8fc;
+
+  --radius-card: 1rem;
+  --shadow-card: 0 1px 2px rgb(12 27 64 / 0.04), 0 4px 16px -4px rgb(12 27 64 / 0.08);
+  --shadow-lift: 0 2px 4px rgb(12 27 64 / 0.05), 0 16px 40px -12px rgb(12 27 64 / 0.18);
+
+  --animate-fade-up: fade-up 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  --animate-seal: seal-in 0.6s cubic-bezier(0.2, 0.9, 0.3, 1.3) both;
+  --animate-draw: draw 0.6s 0.25s ease-out both;
+
+  @keyframes fade-up {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes seal-in {
+    from { opacity: 0; transform: scale(0.6) rotate(-12deg); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes draw {
+    from { stroke-dashoffset: 30; }
+    to { stroke-dashoffset: 0; }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background: var(--page-bg, #ffffff);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01";
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-brand-500);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  ::selection {
+    background: var(--color-brand-100);
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+  .eyebrow {
+    @apply inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.14em] text-brand-600;
+  }
+  .display {
+    @apply font-display font-semibold tracking-tight text-navy-900;
+  }
+  /* Security-print pattern, used sparingly on certificate & navy surfaces */
+  .guilloche {
+    background-image:
+      repeating-radial-gradient(circle at 0 0, transparent 0, transparent 14px, rgb(255 255 255 / 0.045) 15px, transparent 16px),
+      repeating-radial-gradient(circle at 100% 100%, transparent 0, transparent 14px, rgb(255 255 255 / 0.045) 15px, transparent 16px);
+  }
+  .guilloche-ink {
+    background-image:
+      repeating-radial-gradient(circle at 0 0, transparent 0, transparent 10px, rgb(29 50 101 / 0.05) 11px, transparent 12px),
+      repeating-radial-gradient(circle at 100% 100%, transparent 0, transparent 10px, rgb(29 50 101 / 0.05) 11px, transparent 12px);
+  }
+  .grid-dots {
+    background-image: radial-gradient(rgb(29 50 101 / 0.12) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+}
+
+/* Reveal-on-scroll (progressively enhanced; content visible without JS) */
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.7s cubic-bezier(0.2, 0.7, 0.2, 1), transform 0.7s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+.js [data-reveal].is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .js [data-reveal] {
+    opacity: 1;
+    transform: none;
+  }
 }

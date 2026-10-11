@@ -1,0 +1,19 @@
+{
+  "instructor": {
+    "awaitingGrading": 12,
+    "averageRating": 4.8,
+    "courseCompletion": { "c-gd": 68 },
+    "gradingQueue": [
+      { "student": "Mim Akter", "task": "Branding project", "courseId": "c-gd" },
+      { "student": "Tahmina Akter", "task": "Illustrator assessment", "courseId": "c-gd" },
+      { "student": "Sabbir Hossain", "task": "Photoshop assessment", "courseId": "c-gd" }
+    ]
+  },
+  "partner": {
+    "certificationRequests": [
+      { "batch": "GD-DHK-2026-09", "courseId": "c-gd", "learners": 24, "status": "Under review" },
+      { "batch": "OFF-DHK-2026-08", "courseId": "c-office", "learners": 31, "status": "Under review" },
+      { "batch": "CR-DHK-2026-09", "courseId": "c-career", "learners": 40, "status": "Draft" }
+    ]
+  }
+}

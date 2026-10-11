@@ -1,0 +1,21 @@
+{
+  "title": "Certificate Verification",
+  "subtitle": "Verify the authenticity of an NYTI certificate.",
+  "features": [
+    {
+      "icon": "qr-code",
+      "title": "Scan the QR code",
+      "body": "Every certificate carries a QR code that opens this page with the ID pre-filled."
+    },
+    {
+      "icon": "shield-check",
+      "title": "Official record",
+      "body": "Results come directly from the NYTI certification registry, including partner-issued certificates."
+    },
+    {
+      "icon": "lock",
+      "title": "Privacy first",
+      "body": "Only the holder's name, course, issuer and dates are shown. No contact details."
+    }
+  ]
+}

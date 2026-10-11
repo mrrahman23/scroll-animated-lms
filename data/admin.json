@@ -1,0 +1,167 @@
+{
+  "periodLabel": "Last 12 months · October 2025 – September 2026",
+  "totals": {
+    "totalStudents": 10482,
+    "activeCourses": 106,
+    "authorizedPartners": 52,
+    "certificatesIssued": 8217,
+    "certificatesVerified": 3964
+  },
+  "deltas": {
+    "totalStudents": {
+      "value": "+6.8%",
+      "period": "Aug",
+      "positive": true
+    },
+    "authorizedPartners": {
+      "value": "+5",
+      "period": "last quarter",
+      "positive": true
+    },
+    "certificatesVerified": {
+      "value": "+12%",
+      "period": "Aug",
+      "positive": true
+    },
+    "revenue": {
+      "value": "+7.0%",
+      "period": "Aug",
+      "positive": true
+    }
+  },
+  "certificationBreakdown": {
+    "valid": 7640,
+    "expired": 498,
+    "revoked": 79
+  },
+  "monthly": [
+    {
+      "month": "Oct",
+      "online": 610,
+      "offline": 420,
+      "revenue": 5.1,
+      "certificates": 540
+    },
+    {
+      "month": "Nov",
+      "online": 640,
+      "offline": 450,
+      "revenue": 5.4,
+      "certificates": 610
+    },
+    {
+      "month": "Dec",
+      "online": 580,
+      "offline": 390,
+      "revenue": 4.8,
+      "certificates": 720
+    },
+    {
+      "month": "Jan",
+      "online": 720,
+      "offline": 470,
+      "revenue": 6,
+      "certificates": 480
+    },
+    {
+      "month": "Feb",
+      "online": 760,
+      "offline": 510,
+      "revenue": 6.3,
+      "certificates": 520
+    },
+    {
+      "month": "Mar",
+      "online": 810,
+      "offline": 530,
+      "revenue": 6.8,
+      "certificates": 690
+    },
+    {
+      "month": "Apr",
+      "online": 790,
+      "offline": 560,
+      "revenue": 6.7,
+      "certificates": 640
+    },
+    {
+      "month": "May",
+      "online": 850,
+      "offline": 590,
+      "revenue": 7.2,
+      "certificates": 700
+    },
+    {
+      "month": "Jun",
+      "online": 900,
+      "offline": 610,
+      "revenue": 7.6,
+      "certificates": 810
+    },
+    {
+      "month": "Jul",
+      "online": 940,
+      "offline": 640,
+      "revenue": 8,
+      "certificates": 760
+    },
+    {
+      "month": "Aug",
+      "online": 1010,
+      "offline": 680,
+      "revenue": 8.6,
+      "certificates": 830
+    },
+    {
+      "month": "Sep",
+      "online": 1080,
+      "offline": 720,
+      "revenue": 9.2,
+      "certificates": 900
+    }
+  ],
+  "activity": [
+    {
+      "id": "ac-1",
+      "type": "verification",
+      "message": "Certificate NYTI-2026-000123 verified",
+      "actor": "Employer · Brac Bank",
+      "at": "2026-09-25T10:42:00"
+    },
+    {
+      "id": "ac-2",
+      "type": "certificate",
+      "message": "48 certificates issued for Professional Graphic Design",
+      "actor": "ABC Training Center",
+      "at": "2026-09-25T09:15:00"
+    },
+    {
+      "id": "ac-3",
+      "type": "registration",
+      "message": "New student registration",
+      "actor": "Tahmina Akter",
+      "at": "2026-09-25T08:58:00"
+    },
+    {
+      "id": "ac-4",
+      "type": "enrollment",
+      "message": "Enrolled in Web Development Fundamentals",
+      "actor": "Sabbir Hossain",
+      "at": "2026-09-25T08:31:00"
+    },
+    {
+      "id": "ac-5",
+      "type": "partner",
+      "message": "Partner application submitted for review",
+      "actor": "Mymensingh Agro-Tech Academy",
+      "at": "2026-09-24T17:20:00"
+    },
+    {
+      "id": "ac-6",
+      "type": "revocation",
+      "message": "Certificate NYTI-2025-002977 revoked",
+      "actor": "NYTI Admin",
+      "at": "2026-09-24T14:05:00"
+    }
+  ]
+}

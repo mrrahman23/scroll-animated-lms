@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e-1",
+    "userId": "u-reja",
+    "courseId": "c-dm",
+    "mode": "online",
+    "enrolledAt": "2026-07-01",
+    "progress": 72,
+    "completedLessons": 9,
+    "totalLessons": 13,
+    "lastAccessedAt": "2026-09-24",
+    "status": "active",
+    "nextLessonTitle": "Measuring results"
+  },
+  {
+    "id": "e-2",
+    "userId": "u-reja",
+    "courseId": "c-gd",
+    "mode": "offline",
+    "enrolledAt": "2026-08-10",
+    "progress": 38,
+    "completedLessons": 8,
+    "totalLessons": 21,
+    "lastAccessedAt": "2026-09-22",
+    "status": "active",
+    "nextLessonTitle": "Photo retouching"
+  },
+  {
+    "id": "e-3",
+    "userId": "u-reja",
+    "courseId": "c-office",
+    "mode": "online",
+    "enrolledAt": "2026-02-01",
+    "progress": 100,
+    "completedLessons": 8,
+    "totalLessons": 8,
+    "lastAccessedAt": "2026-03-26",
+    "status": "completed",
+    "certificateId": "NYTI-2026-000417"
+  },
+  {
+    "id": "e-4",
+    "userId": "u-reja",
+    "courseId": "c-career",
+    "mode": "offline",
+    "enrolledAt": "2026-05-05",
+    "progress": 100,
+    "completedLessons": 6,
+    "totalLessons": 6,
+    "lastAccessedAt": "2026-06-09",
+    "status": "completed",
+    "certificateId": "NYTI-2026-000588"
+  }
+]
